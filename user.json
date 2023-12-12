@@ -1,0 +1,40 @@
+{
+  "code": 0,
+  "msg": "success",
+  "processed_time": 0.3877,
+  "data": {
+    "user": {
+      "id": "7263050985702097962",
+      "uniqueId": "mrvincenzo_",
+      "nickname": "Vincenzo",
+      "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e8bc96d59f5229f03ebee4b16c0fc5b3~c5_100x100.jpeg?x-expires=1702569600&x-signature=Ohv4uCn12QKjFa8gAqnqnC7qxXE%3D",
+      "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e8bc96d59f5229f03ebee4b16c0fc5b3~c5_720x720.jpeg?x-expires=1702569600&x-signature=dDY8Naz6XR6vW3piw4JmUH3TwNU%3D",
+      "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e8bc96d59f5229f03ebee4b16c0fc5b3~c5_1080x1080.jpeg?x-expires=1702569600&x-signature=6zBqToP9eg8AR0KgB40Y6BQnp6I%3D",
+      "signature": "Follow me to see the latest videos \u2764\ufe0f",
+      "verified": false,
+      "secUid": "MS4wLjABAAAADbShq57Bt0xRKo8K3CsBzg31pNiKN7WWVWAGQNUBZbN5YXdI_hELfKZ4PKsLzE9K",
+      "secret": false,
+      "ftc": false,
+      "relation": 0,
+      "openFavorite": false,
+      "commentSetting": null,
+      "duetSetting": null,
+      "stitchSetting": null,
+      "privateAccount": false,
+      "isADVirtual": false,
+      "isUnderAge18": false,
+      "ins_id": "",
+      "twitter_id": "",
+      "youtube_channel_title": "",
+      "youtube_channel_id": ""
+    },
+    "stats": {
+      "followingCount": 0,
+      "followerCount": 163937,
+      "heartCount": 4228587,
+      "videoCount": 60,
+      "diggCount": 0,
+      "heart": 4228587
+    }
+  }
+}
